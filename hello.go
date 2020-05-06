@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(morestrings.ReverseRunes("Hello Go!"))
+	fmt.Println(morestrings.ReverseRunes("!oG ,olleH"))
 }
